@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Don",
+      "movieID": "101",
+      "releaseDate": "1975",
+      "posterPath": "https://upload.wikimedia.org/wikipedia/en/0/0e/Don_1978_poster.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Lagaan",
+      "movieID": "102",
+      "releaseDate": "2004",
+      "posterPath": "https://th.bing.com/th?id=OIP.bPBCgvp9N0SUbVYJnBg2IQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=2.5&pid=3.1&rm=2"
+    },
+    {
+      "id": "3",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "movieID": "103",
+      "releaseDate": "2006",
+      "posterPath": "https://upload.wikimedia.org/wikipedia/en/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Grand Budapest Hotel",
+      "movieID": "104",
+      "releaseDate": "2014",
+      "posterPath": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png"
+    },
+    {
+      "id": "5",
+      "title": "La La Land",
+      "movieID": "102",
+      "releaseDate": "2016",
+      "posterPath": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png"
+    }
+  ],
+  "favourites": []
+}
